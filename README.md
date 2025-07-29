@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there! I'm a **licensed pharmacist** with a strong passion for **data**.  
+My background in the **medical field** gives me a unique advantage when working on **healthcare analytics** and **pharmaceutical data projects**.
 
-<!--
-**Emad-sharaby/Emad-Sharaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What sets me apart is that I don't just know the **technical tools** — I also understand the **business context**, allowing me to translate data into meaningful decisions.
 
-Here are some ideas to get you started:
+### 🔧 Technical Skills:
+- **Excel & Google Sheets**: advanced formulas, dashboards, automation  
+- **SQL**: data extraction, cleaning, and transformation  
+- **Power BI**: interactive reports, DAX, and business insights  
+- **Python (Basics)**: data manipulation and automation tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+## Stay connected
+Feel free to connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/emad-sharaby)
+
+📧 Email: emadsharaby93@gmail.com
+
