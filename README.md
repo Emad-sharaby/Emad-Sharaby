@@ -7,7 +7,7 @@ What sets me apart is that I don't just know the **technical tools** — I also 
 - **Excel & Google Sheets**: advanced formulas, dashboards, automation  
 - **SQL**: data extraction, cleaning, and transformation  
 - **Power BI**: interactive reports, DAX, and business insights  
-- **Python (Basics)**: data manipulation and automation tasks
+- **Python**: data manipulation & analysis using Pandas,seaborn and matplotlib
 
   ---
 
